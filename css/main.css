@@ -658,6 +658,9 @@ body {
     margin: 0 auto;
     margin-top: 10px;
   }
+  .email-input{
+    max-width: 90%; 
+  }
 }
 @media (max-width: 685px) {
   .subscribe-title{
